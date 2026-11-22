@@ -1,0 +1,1 @@
+{"columns": [["id", "INTEGER"], ["name", "TEXT"], ["active", "BOOLEAN"]], "pk": "id", "rows": [{"id": 1, "name": "Ada L", "active": true}]}
